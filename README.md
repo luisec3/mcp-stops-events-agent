@@ -4,7 +4,7 @@
 ### 1. Clonar el repositorio
 ```sh
 git clone https://github.com/luisec3/mcp-stops-events-agent.git
-cd mcp-stop-events-agent
+cd mcp-stops-events-agent
 ```
 
 ### 2. Creación de un Entorno Virtual
