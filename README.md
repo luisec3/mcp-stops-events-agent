@@ -3,7 +3,7 @@
 ## Instrucciones de Instalación
 ### 1. Clonar el repositorio
 ```sh
-git clone 
+git clone https://github.com/luisec3/mcp-stops-events-agent.git
 cd mcp-stop-events-agent
 ```
 
